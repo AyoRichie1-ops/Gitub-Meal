@@ -1,0 +1,11 @@
+clean out basic projects
+installing neccessary pkgs
+    1.nootstrap
+    2.react-router-dom
+    3.react-loader-spinner
+    4.axios
+
+set up pages
+    1.Home pages
+    2.About pages
+    3.
