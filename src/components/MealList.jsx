@@ -22,7 +22,7 @@ const MealList = () => {
             const {idMeal, strMealThumb, strCategory, strMeal} = food
             return(
               <Link to={`/meal/${idMeal}`} className='text-decoration-none mx-3 mx-auto ' key={idMeal}>
-                <div  style={{width:"280px"}}className='shadow shadow-lg card'>
+                <div  style={{width:"280px"}}className='shadow shadow-lg card my-4'>
                   <img src={strMealThumb} 
                   alt={strMeal} 
                   className='rounded-top-2 w-100'
